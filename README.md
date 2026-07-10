@@ -26,10 +26,10 @@ A powerful, lightning-fast domain availability scanner that checks thousands of 
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/domain-scanner-pro.git
+git clone https://github.com/M4lic1ous/Domain_Checker.git
 
 # Navigate to the directory
-cd domain-scanner-pro
+cd Domain_Checker
 
 # Install dependencies
 pip install dnspython
@@ -40,7 +40,7 @@ pip install dnspython
 ## 🚀 Usage
 
 ```bash
-python domain_scanner.py
+python Checker.py
 ```
 
 ### Example Output:
