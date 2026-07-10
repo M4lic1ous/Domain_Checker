@@ -128,40 +128,15 @@ TLDS = [
 **Created by Malicious**
 
 - 🎭 **Team**: Dark Justice Team
-- 📱 **Telegram**: [@Deep research M4lic1ous](https://t.me/Deep_research_M4lic1ous)
+- 📱 **Telegram**: [M4lic1ous](https://t.me/M4lic1ous)
 - 💻 **GitHub**: [M4lic1ous](https://github.com/M4lic1ous)
-
----
-
-## ⚠️ Disclaimer
-
-> This tool is for educational and research purposes only. Users are responsible for complying with all applicable laws and regulations. The developer assumes no liability for misuse of this tool.
-
----
-
-## 📄 License
-
-MIT License - See [LICENSE](LICENSE) file for details
-
----
-
-## 🤝 Contributing
-
-We welcome contributions! Here's how you can help:
-
-1. 🍴 Fork the repository
-2. 🔧 Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. 💾 Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. 📤 Push to the branch (`git push origin feature/AmazingFeature`)
-5. 🎉 Open a Pull Request
 
 ---
 
 ## 📞 Contact
 
-- **Telegram**: [@Deep research M4lic1ous](https://t.me/Deep_research_M4lic1ous)
-- **Email**: malicious@darkjustice.team
-- **Website**: [Dark Justice Team](https://darkjustice.team)
+- **Telegram**: [@M4lic1ous]
+- **Dark Justice Team**
 
 ---
 
@@ -177,3 +152,4 @@ If you find this tool useful, consider:
 ---
 
 **Made with ❤️ by Malicious | Dark Justice Team**
+Tg : @M4lic1ous
